@@ -16,3 +16,10 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+{::nomarkdown}
+<ul>
+	<li>Erell HUARD/li>
+	<li>Gregory CODRON<\li>
+	<li>Alexandre CLAUDON<\li>
+</ul>{:/}
