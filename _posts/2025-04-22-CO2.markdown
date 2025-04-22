@@ -3,7 +3,6 @@ layout: post
 title:  "Analyse des émissions de CO2 des véhicules (France & Europe)"
 date:   2025-04-22 19:38:00 +0200
 categories: jekyll update
-
 ---
 
 ![Datascientest](/img/datascientest.jpg)
