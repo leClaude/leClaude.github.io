@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# L"équipe
+# L'équipe
 
 Ce projet a été mené par :
 
