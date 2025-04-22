@@ -8,6 +8,8 @@ permalink: /about/
 Ce projet a été mené par :
 
 * [Erell HUARD](mailto:erell.huard@gmail.com)
-* Gregory CODRON
-* Alexandre CLAUDON
-* Cyril COLOTROC
+* [Gregory CODRON](mailto:gregory.codron@developpement-durable.gouv.fr)
+* [Alexandre CLAUDON](mailto:alexandre.claudon@gmail.com)
+* [Cyril COLOTROC](mailto:cyril.colotroc@gmail.com)
+
+Des questions concernant ce projet ? N'hésitez pas à nous contacter ! 
