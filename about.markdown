@@ -3,14 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+# L"équipe
 
 Ce projet a été mené par :
 
-<ul>
-	<li>Erell HUARD</li>
-	<li>Gregory CODRON<\li>
-	<li>Alexandre CLAUDON<\li>
-	<li>Cyril COLOTROC<\li>
-</ul>
-
-Site développé par leClaude
+* Erell HUARD
+* Gregory CODRON
+* Alexandre CLAUDON
+* Cyril COLOTROC
