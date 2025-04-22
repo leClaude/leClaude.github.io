@@ -20,10 +20,10 @@
 
 title: Datascientest - oct24_da-co2
 email: alexandre.claudon@gmail.com
-description: Ce site est dédié à la publication des documents liés à la formation DATASCIENTES - Data analyst cohorte octobre 2024
+description: Ce site est dédié à la publication de documents liés à la formation DATASCIENTEST - Data analyst cohorte octobre 2024
 url: http://leClaude.github.io
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  leClaude
 
 # Build settings
 theme: minima
