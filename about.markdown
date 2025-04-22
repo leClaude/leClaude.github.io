@@ -7,7 +7,7 @@ permalink: /about/
 
 Ce projet a été mené par :
 
-* Erell HUARD
+* [Erell HUARD](mailto:erell.huard@gmail.com)
 * Gregory CODRON
 * Alexandre CLAUDON
 * Cyril COLOTROC
